@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clairerebsmith
-- 🌱 I’m currently delving back into iOS development after a couple of years away 
+- 🌱 A place for all my learning and personal projects
 - 📫 How to reach me ...
 clairerebeccasmithco@gmail.com
 
